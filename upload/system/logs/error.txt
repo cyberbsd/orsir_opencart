@@ -1,0 +1,2055 @@
+2014-10-06 6:18:57 - PHP Warning:  unlink(/var/opencart/opencart-1.5.6.4/upload/system/cache/cache.country.1404156576): Permission denied in /var/opencart/opencart-1.5.6.4/upload/system/library/cache.php on line 18
+2014-10-06 6:18:57 - PHP Warning:  unlink(/var/opencart/opencart-1.5.6.4/upload/system/cache/cache.country.status.1404201430): Permission denied in /var/opencart/opencart-1.5.6.4/upload/system/library/cache.php on line 18
+2014-10-06 6:18:57 - PHP Warning:  unlink(/var/opencart/opencart-1.5.6.4/upload/system/cache/cache.store.1404350722): Permission denied in /var/opencart/opencart-1.5.6.4/upload/system/library/cache.php on line 18
+2014-10-06 6:18:57 - PHP Warning:  unlink(/var/opencart/opencart-1.5.6.4/upload/system/cache/cache.store.1404350722): Permission denied in /var/opencart/opencart-1.5.6.4/upload/system/library/cache.php on line 45
+2014-10-06 6:18:57 - PHP Warning:  fopen(/var/opencart/opencart-1.5.6.4/upload/system/cache/cache.store.1412579937): failed to open stream: Permission denied in /var/opencart/opencart-1.5.6.4/upload/system/library/cache.php on line 32
+2014-10-06 6:18:57 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/opencart/opencart-1.5.6.4/upload/system/library/cache.php on line 34
+2014-10-06 6:18:57 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/opencart/opencart-1.5.6.4/upload/system/library/cache.php on line 36
+2014-10-06 6:18:57 - PHP Notice:  Undefined variable: entry_ent in /var/opencart/opencart-1.5.6.4/upload/admin/view/template/sale/customer_form.tpl on line 120
+2014-10-06 6:18:57 - PHP Notice:  Undefined variable: ent in /var/opencart/opencart-1.5.6.4/upload/admin/view/template/sale/customer_form.tpl on line 122
+2014-10-06 6:18:57 - PHP Notice:  Undefined variable: entry_oversea in /var/opencart/opencart-1.5.6.4/upload/admin/view/template/sale/customer_form.tpl on line 132
+2014-10-06 6:18:57 - PHP Notice:  Undefined variable: oversea in /var/opencart/opencart-1.5.6.4/upload/admin/view/template/sale/customer_form.tpl on line 134
+2014-10-06 6:18:57 - PHP Notice:  Undefined variable: entry_hundred in /var/opencart/opencart-1.5.6.4/upload/admin/view/template/sale/customer_form.tpl on line 144
+2014-10-06 6:18:57 - PHP Notice:  Undefined variable: hundred in /var/opencart/opencart-1.5.6.4/upload/admin/view/template/sale/customer_form.tpl on line 146
+2014-10-06 6:18:57 - PHP Notice:  Undefined variable: entry_note in /var/opencart/opencart-1.5.6.4/upload/admin/view/template/sale/customer_form.tpl on line 156
+2014-10-06 6:18:57 - PHP Notice:  Undefined variable: note in /var/opencart/opencart-1.5.6.4/upload/admin/view/template/sale/customer_form.tpl on line 157
+2014-10-06 6:18:57 - PHP Notice:  Undefined variable: error_note in /var/opencart/opencart-1.5.6.4/upload/admin/view/template/sale/customer_form.tpl on line 158
+2014-10-06 6:19:55 - PHP Notice:  Undefined variable: entry_ent in /var/opencart/opencart-1.5.6.4/upload/admin/view/template/sale/customer_form.tpl on line 120
+2014-10-06 6:19:55 - PHP Notice:  Undefined variable: ent in /var/opencart/opencart-1.5.6.4/upload/admin/view/template/sale/customer_form.tpl on line 122
+2014-10-06 6:19:55 - PHP Notice:  Undefined variable: entry_oversea in /var/opencart/opencart-1.5.6.4/upload/admin/view/template/sale/customer_form.tpl on line 132
+2014-10-06 6:19:55 - PHP Notice:  Undefined variable: oversea in /var/opencart/opencart-1.5.6.4/upload/admin/view/template/sale/customer_form.tpl on line 134
+2014-10-06 6:19:55 - PHP Notice:  Undefined variable: entry_hundred in /var/opencart/opencart-1.5.6.4/upload/admin/view/template/sale/customer_form.tpl on line 144
+2014-10-06 6:19:55 - PHP Notice:  Undefined variable: hundred in /var/opencart/opencart-1.5.6.4/upload/admin/view/template/sale/customer_form.tpl on line 146
+2014-10-06 6:19:55 - PHP Notice:  Undefined variable: entry_note in /var/opencart/opencart-1.5.6.4/upload/admin/view/template/sale/customer_form.tpl on line 156
+2014-10-06 6:19:55 - PHP Notice:  Undefined variable: note in /var/opencart/opencart-1.5.6.4/upload/admin/view/template/sale/customer_form.tpl on line 157
+2014-10-06 6:19:55 - PHP Notice:  Undefined variable: error_note in /var/opencart/opencart-1.5.6.4/upload/admin/view/template/sale/customer_form.tpl on line 158
+2014-10-06 6:28:29 - PHP Notice:  Undefined index: zone_id in /var/opencart/opencart-1.5.6.4/upload/admin/view/template/sale/customer_form.tpl on line 253
+2014-10-06 6:28:35 - PHP Notice:  Undefined index: zone_id in /var/opencart/opencart-1.5.6.4/upload/admin/view/template/sale/customer_form.tpl on line 253
+2014-10-06 6:28:39 - PHP Notice:  Undefined index: zone_id in /var/opencart/opencart-1.5.6.4/upload/admin/view/template/sale/customer_form.tpl on line 253
+2014-10-06 6:28:47 - PHP Notice:  Undefined index: zone_id in /var/opencart/opencart-1.5.6.4/upload/admin/view/template/sale/customer_form.tpl on line 253
+2014-10-06 6:28:58 - PHP Notice:  Undefined index: zone_id in /var/opencart/opencart-1.5.6.4/upload/admin/view/template/sale/customer_form.tpl on line 253
+2014-10-06 6:30:11 - PHP Notice:  Undefined index: zone_id in /var/opencart/opencart-1.5.6.4/upload/admin/view/template/sale/customer_form.tpl on line 253
+2014-10-06 6:30:56 - PHP Notice:  Undefined index: zone_id in /var/opencart/opencart-1.5.6.4/upload/admin/view/template/sale/customer_form.tpl on line 253
+2014-10-06 6:34:00 - PHP Notice:  Undefined index: zone_id in /var/opencart/opencart-1.5.6.4/upload/admin/view/template/sale/customer_form.tpl on line 253
+2014-10-06 6:34:11 - PHP Notice:  Undefined index: zone_id in /var/opencart/opencart-1.5.6.4/upload/admin/view/template/sale/customer_form.tpl on line 253
+2014-10-06 6:34:18 - PHP Notice:  Undefined index: zone_id in /var/opencart/opencart-1.5.6.4/upload/admin/view/template/sale/customer_form.tpl on line 253
+2014-10-06 6:34:19 - PHP Notice:  Undefined index: zone_id in /var/opencart/opencart-1.5.6.4/upload/admin/view/template/sale/customer_form.tpl on line 253
+2014-10-07 5:50:39 - PHP Notice:  Undefined index: birth in /var/opencart/opencart-1.5.6.4/upload/catalog/model/account/customer.php on line 14
+2014-10-07 6:36:11 - PHP Notice:  Undefined variable: entry_telephone2 in /var/opencart/opencart-1.5.6.4/upload/catalog/view/theme/default/template/account/edit.tpl on line 46
+2014-10-07 6:36:11 - PHP Notice:  Undefined variable: telephone2 in /var/opencart/opencart-1.5.6.4/upload/catalog/view/theme/default/template/account/edit.tpl on line 47
+2014-10-07 6:36:11 - PHP Notice:  Undefined variable: entry_telephone3 in /var/opencart/opencart-1.5.6.4/upload/catalog/view/theme/default/template/account/edit.tpl on line 50
+2014-10-07 6:36:11 - PHP Notice:  Undefined variable: telephone3 in /var/opencart/opencart-1.5.6.4/upload/catalog/view/theme/default/template/account/edit.tpl on line 51
+2014-10-07 6:36:11 - PHP Notice:  Undefined variable: entry_vat in /var/opencart/opencart-1.5.6.4/upload/catalog/view/theme/default/template/account/edit.tpl on line 58
+2014-10-07 6:36:11 - PHP Notice:  Undefined variable: vat in /var/opencart/opencart-1.5.6.4/upload/catalog/view/theme/default/template/account/edit.tpl on line 59
+2014-10-07 6:36:11 - PHP Notice:  Undefined variable: entry_vat_title in /var/opencart/opencart-1.5.6.4/upload/catalog/view/theme/default/template/account/edit.tpl on line 62
+2014-10-07 6:36:11 - PHP Notice:  Undefined variable: vat_title in /var/opencart/opencart-1.5.6.4/upload/catalog/view/theme/default/template/account/edit.tpl on line 63
+2014-12-03 22:51:37 - Array
+(
+    [57::] => Array
+        (
+            [key] => 57::
+            [product_id] => 57
+            [name] => 50入掛耳包超值箱 (M)
+            [model] => A251
+            [shipping] => 1
+            [image] => 
+            [option] => Array
+                (
+                )
+
+            [download] => Array
+                (
+                )
+
+            [quantity] => 1
+            [subtract_quantity] => 0
+            [minimum] => 1
+            [subtract] => 1
+            [subtract_weight] => 0
+            [stock] => 1
+            [price] => 1000
+            [total] => 1000
+            [reward] => 0
+            [points] => 0
+            [tax_class_id] => 0
+            [weight] => 0
+            [converted_raw_bean_weight] => 0
+            [weight_class_id] => 1
+            [length] => 0.00000000
+            [width] => 0.00000000
+            [height] => 0.00000000
+            [length_class_id] => 1
+            [profile_id] => 0
+            [profile_name] => 
+            [recurring] => 
+            [recurring_frequency] => 0
+            [recurring_price] => 0
+            [recurring_cycle] => 0
+            [recurring_duration] => 0
+            [recurring_trial] => 0
+            [recurring_trial_frequency] => 0
+            [recurring_trial_price] => 0
+            [recurring_trial_cycle] => 0
+            [recurring_trial_duration] => 0
+        )
+
+    [54::] => Array
+        (
+            [key] => 54::
+            [product_id] => 54
+            [name] => 迪寶日曬耶加雪夫 M0+
+            [model] => Y452
+            [shipping] => 1
+            [image] => 
+            [option] => Array
+                (
+                )
+
+            [download] => Array
+                (
+                )
+
+            [quantity] => 1
+            [subtract_quantity] => 0
+            [minimum] => 1
+            [subtract] => 1
+            [subtract_weight] => 0
+            [stock] => 1
+            [price] => 450
+            [total] => 450
+            [reward] => 0
+            [points] => 0
+            [tax_class_id] => 0
+            [weight] => 0.5
+            [converted_raw_bean_weight] => 0
+            [weight_class_id] => 5
+            [length] => 0.00000000
+            [width] => 0.00000000
+            [height] => 0.00000000
+            [length_class_id] => 1
+            [profile_id] => 0
+            [profile_name] => 
+            [recurring] => 
+            [recurring_frequency] => 0
+            [recurring_price] => 0
+            [recurring_cycle] => 0
+            [recurring_duration] => 0
+            [recurring_trial] => 0
+            [recurring_trial_frequency] => 0
+            [recurring_trial_price] => 0
+            [recurring_trial_cycle] => 0
+            [recurring_trial_duration] => 0
+        )
+
+    [56:YToxOntpOjIzODtzOjI6IjUwIjt9:] => Array
+        (
+            [key] => 56:YToxOntpOjIzODtzOjI6IjUwIjt9:
+            [product_id] => 56
+            [name] => 迪寶日曬耶加雪夫 M (掛耳包)
+            [model] => Y454
+            [shipping] => 1
+            [image] => 
+            [option] => Array
+                (
+                    [0] => Array
+                        (
+                            [product_option_id] => 238
+                            [product_option_value_id] => 50
+                            [option_id] => 13
+                            [option_value_id] => 50
+                            [name] => 掛耳包
+                            [option_value] => 10入裝
+                            [type] => radio
+                            [quantity] => 0
+                            [subtract] => 0
+                            [price] => 0.0000
+                            [price_prefix] => +
+                            [points] => 0
+                            [points_prefix] => +
+                            [weight] => 0.00000000
+                            [weight_prefix] => +
+                            [subtract_rate] => 0
+                        )
+
+                )
+
+            [download] => Array
+                (
+                )
+
+            [quantity] => 2
+            [subtract_quantity] => 0
+            [minimum] => 1
+            [subtract] => 1
+            [subtract_weight] => 0
+            [stock] => 1
+            [price] => 450
+            [total] => 900
+            [reward] => 0
+            [points] => 0
+            [tax_class_id] => 0
+            [weight] => 180
+            [converted_raw_bean_weight] => 0
+            [weight_class_id] => 2
+            [length] => 0.00000000
+            [width] => 0.00000000
+            [height] => 0.00000000
+            [length_class_id] => 1
+            [profile_id] => 0
+            [profile_name] => 
+            [recurring] => 
+            [recurring_frequency] => 0
+            [recurring_price] => 0
+            [recurring_cycle] => 0
+            [recurring_duration] => 0
+            [recurring_trial] => 0
+            [recurring_trial_frequency] => 0
+            [recurring_trial_price] => 0
+            [recurring_trial_cycle] => 0
+            [recurring_trial_duration] => 0
+        )
+
+)
+
+2014-12-03 22:52:37 - Array
+(
+    [57::] => Array
+        (
+            [key] => 57::
+            [product_id] => 57
+            [name] => 50入掛耳包超值箱 (M)
+            [model] => A251
+            [shipping] => 1
+            [image] => 
+            [option] => Array
+                (
+                )
+
+            [download] => Array
+                (
+                )
+
+            [quantity] => 1
+            [subtract_quantity] => 0
+            [minimum] => 1
+            [subtract] => 1
+            [subtract_weight] => 0
+            [stock] => 1
+            [price] => 1000
+            [total] => 1000
+            [reward] => 0
+            [points] => 0
+            [tax_class_id] => 0
+            [weight] => 0
+            [converted_raw_bean_weight] => 0
+            [weight_class_id] => 1
+            [length] => 0.00000000
+            [width] => 0.00000000
+            [height] => 0.00000000
+            [length_class_id] => 1
+            [profile_id] => 0
+            [profile_name] => 
+            [recurring] => 
+            [recurring_frequency] => 0
+            [recurring_price] => 0
+            [recurring_cycle] => 0
+            [recurring_duration] => 0
+            [recurring_trial] => 0
+            [recurring_trial_frequency] => 0
+            [recurring_trial_price] => 0
+            [recurring_trial_cycle] => 0
+            [recurring_trial_duration] => 0
+        )
+
+    [54::] => Array
+        (
+            [key] => 54::
+            [product_id] => 54
+            [name] => 迪寶日曬耶加雪夫 M0+
+            [model] => Y452
+            [shipping] => 1
+            [image] => 
+            [option] => Array
+                (
+                )
+
+            [download] => Array
+                (
+                )
+
+            [quantity] => 1
+            [subtract_quantity] => 0
+            [minimum] => 1
+            [subtract] => 1
+            [subtract_weight] => 0
+            [stock] => 1
+            [price] => 450
+            [total] => 450
+            [reward] => 0
+            [points] => 0
+            [tax_class_id] => 0
+            [weight] => 0.5
+            [converted_raw_bean_weight] => 0
+            [weight_class_id] => 5
+            [length] => 0.00000000
+            [width] => 0.00000000
+            [height] => 0.00000000
+            [length_class_id] => 1
+            [profile_id] => 0
+            [profile_name] => 
+            [recurring] => 
+            [recurring_frequency] => 0
+            [recurring_price] => 0
+            [recurring_cycle] => 0
+            [recurring_duration] => 0
+            [recurring_trial] => 0
+            [recurring_trial_frequency] => 0
+            [recurring_trial_price] => 0
+            [recurring_trial_cycle] => 0
+            [recurring_trial_duration] => 0
+        )
+
+    [56:YToxOntpOjIzODtzOjI6IjUwIjt9:] => Array
+        (
+            [key] => 56:YToxOntpOjIzODtzOjI6IjUwIjt9:
+            [product_id] => 56
+            [name] => 迪寶日曬耶加雪夫 M (掛耳包)
+            [model] => Y454
+            [shipping] => 1
+            [image] => 
+            [option] => Array
+                (
+                    [0] => Array
+                        (
+                            [product_option_id] => 238
+                            [product_option_value_id] => 50
+                            [option_id] => 13
+                            [option_value_id] => 50
+                            [name] => 掛耳包
+                            [option_value] => 10入裝
+                            [type] => radio
+                            [quantity] => 0
+                            [subtract] => 0
+                            [price] => 0.0000
+                            [price_prefix] => +
+                            [points] => 0
+                            [points_prefix] => +
+                            [weight] => 0.00000000
+                            [weight_prefix] => +
+                            [subtract_rate] => 0
+                        )
+
+                )
+
+            [download] => Array
+                (
+                )
+
+            [quantity] => 2
+            [subtract_quantity] => 0
+            [minimum] => 1
+            [subtract] => 1
+            [subtract_weight] => 0
+            [stock] => 1
+            [price] => 450
+            [total] => 900
+            [reward] => 0
+            [points] => 0
+            [tax_class_id] => 0
+            [weight] => 180
+            [converted_raw_bean_weight] => 0
+            [weight_class_id] => 2
+            [length] => 0.00000000
+            [width] => 0.00000000
+            [height] => 0.00000000
+            [length_class_id] => 1
+            [profile_id] => 0
+            [profile_name] => 
+            [recurring] => 
+            [recurring_frequency] => 0
+            [recurring_price] => 0
+            [recurring_cycle] => 0
+            [recurring_duration] => 0
+            [recurring_trial] => 0
+            [recurring_trial_frequency] => 0
+            [recurring_trial_price] => 0
+            [recurring_trial_cycle] => 0
+            [recurring_trial_duration] => 0
+        )
+
+)
+
+2014-12-03 23:07:47 - Array
+(
+    [57::] => Array
+        (
+            [key] => 57::
+            [product_id] => 57
+            [name] => 50入掛耳包超值箱 (M)
+            [model] => A251
+            [shipping] => 1
+            [image] => 
+            [option] => Array
+                (
+                )
+
+            [download] => Array
+                (
+                )
+
+            [quantity] => 1
+            [subtract_quantity] => 0
+            [minimum] => 1
+            [subtract] => 1
+            [subtract_weight] => 0
+            [stock] => 1
+            [price] => 1000
+            [total] => 1000
+            [reward] => 0
+            [points] => 0
+            [tax_class_id] => 0
+            [weight] => 0
+            [converted_raw_bean_weight] => 0
+            [weight_class_id] => 1
+            [length] => 0.00000000
+            [width] => 0.00000000
+            [height] => 0.00000000
+            [length_class_id] => 1
+            [profile_id] => 0
+            [profile_name] => 
+            [recurring] => 
+            [recurring_frequency] => 0
+            [recurring_price] => 0
+            [recurring_cycle] => 0
+            [recurring_duration] => 0
+            [recurring_trial] => 0
+            [recurring_trial_frequency] => 0
+            [recurring_trial_price] => 0
+            [recurring_trial_cycle] => 0
+            [recurring_trial_duration] => 0
+        )
+
+)
+
+2014-12-03 23:08:31 - Array
+(
+    [57::] => Array
+        (
+            [key] => 57::
+            [product_id] => 57
+            [name] => 50入掛耳包超值箱 (M)
+            [model] => A251
+            [shipping] => 1
+            [image] => 
+            [option] => Array
+                (
+                )
+
+            [download] => Array
+                (
+                )
+
+            [quantity] => 1
+            [subtract_quantity] => 0
+            [minimum] => 1
+            [subtract] => 1
+            [subtract_weight] => 0
+            [stock] => 1
+            [price] => 1000
+            [total] => 1000
+            [reward] => 0
+            [points] => 0
+            [tax_class_id] => 0
+            [weight] => 0
+            [converted_raw_bean_weight] => 0
+            [weight_class_id] => 1
+            [length] => 0.00000000
+            [width] => 0.00000000
+            [height] => 0.00000000
+            [length_class_id] => 1
+            [profile_id] => 0
+            [profile_name] => 
+            [recurring] => 
+            [recurring_frequency] => 0
+            [recurring_price] => 0
+            [recurring_cycle] => 0
+            [recurring_duration] => 0
+            [recurring_trial] => 0
+            [recurring_trial_frequency] => 0
+            [recurring_trial_price] => 0
+            [recurring_trial_cycle] => 0
+            [recurring_trial_duration] => 0
+        )
+
+)
+
+2014-12-03 23:08:31 - Array
+(
+    [key] => 57::
+    [product_id] => 57
+    [name] => 50入掛耳包超值箱 (M)
+    [model] => A251
+    [shipping] => 1
+    [image] => 
+    [option] => Array
+        (
+        )
+
+    [download] => Array
+        (
+        )
+
+    [quantity] => 1
+    [subtract_quantity] => 0
+    [minimum] => 1
+    [subtract] => 1
+    [subtract_weight] => 0
+    [stock] => 1
+    [price] => 1000
+    [total] => 1000
+    [reward] => 0
+    [points] => 0
+    [tax_class_id] => 0
+    [weight] => 0
+    [converted_raw_bean_weight] => 0
+    [weight_class_id] => 1
+    [length] => 0.00000000
+    [width] => 0.00000000
+    [height] => 0.00000000
+    [length_class_id] => 1
+    [profile_id] => 0
+    [profile_name] => 
+    [recurring] => 
+    [recurring_frequency] => 0
+    [recurring_price] => 0
+    [recurring_cycle] => 0
+    [recurring_duration] => 0
+    [recurring_trial] => 0
+    [recurring_trial_frequency] => 0
+    [recurring_trial_price] => 0
+    [recurring_trial_cycle] => 0
+    [recurring_trial_duration] => 0
+)
+
+2014-12-03 23:09:51 - Array
+(
+    [57::] => Array
+        (
+            [key] => 57::
+            [product_id] => 57
+            [name] => 50入掛耳包超值箱 (M)
+            [model] => A251
+            [shipping] => 1
+            [image] => 
+            [option] => Array
+                (
+                )
+
+            [download] => Array
+                (
+                )
+
+            [quantity] => 1
+            [subtract_quantity] => 0
+            [minimum] => 1
+            [subtract] => 1
+            [subtract_weight] => 0
+            [stock] => 1
+            [price] => 1000
+            [total] => 1000
+            [reward] => 0
+            [points] => 0
+            [tax_class_id] => 0
+            [weight] => 0
+            [converted_raw_bean_weight] => 0
+            [weight_class_id] => 1
+            [length] => 0.00000000
+            [width] => 0.00000000
+            [height] => 0.00000000
+            [length_class_id] => 1
+            [profile_id] => 0
+            [profile_name] => 
+            [recurring] => 
+            [recurring_frequency] => 0
+            [recurring_price] => 0
+            [recurring_cycle] => 0
+            [recurring_duration] => 0
+            [recurring_trial] => 0
+            [recurring_trial_frequency] => 0
+            [recurring_trial_price] => 0
+            [recurring_trial_cycle] => 0
+            [recurring_trial_duration] => 0
+        )
+
+)
+
+2014-12-03 23:09:51 - A
+2014-12-03 23:10:24 - Array
+(
+    [57::] => Array
+        (
+            [key] => 57::
+            [product_id] => 57
+            [name] => 50入掛耳包超值箱 (M)
+            [model] => A251
+            [shipping] => 1
+            [image] => 
+            [option] => Array
+                (
+                )
+
+            [download] => Array
+                (
+                )
+
+            [quantity] => 1
+            [subtract_quantity] => 0
+            [minimum] => 1
+            [subtract] => 1
+            [subtract_weight] => 0
+            [stock] => 1
+            [price] => 1000
+            [total] => 1000
+            [reward] => 0
+            [points] => 0
+            [tax_class_id] => 0
+            [weight] => 0
+            [converted_raw_bean_weight] => 0
+            [weight_class_id] => 1
+            [length] => 0.00000000
+            [width] => 0.00000000
+            [height] => 0.00000000
+            [length_class_id] => 1
+            [profile_id] => 0
+            [profile_name] => 
+            [recurring] => 
+            [recurring_frequency] => 0
+            [recurring_price] => 0
+            [recurring_cycle] => 0
+            [recurring_duration] => 0
+            [recurring_trial] => 0
+            [recurring_trial_frequency] => 0
+            [recurring_trial_price] => 0
+            [recurring_trial_cycle] => 0
+            [recurring_trial_duration] => 0
+        )
+
+)
+
+2014-12-03 23:10:24 - Array
+(
+    [code] => flat
+    [title] => 固定運費
+    [quote] => Array
+        (
+            [flat] => Array
+                (
+                    [code] => flat.flat
+                    [title] => 固定運費率
+                    [cost] => 50
+                    [tax_class_id] => 9
+                    [text] => $100.00
+                )
+
+        )
+
+    [sort_order] => 2
+    [error] => 
+)
+
+2014-12-03 23:11:32 - Array
+(
+    [57::] => Array
+        (
+            [key] => 57::
+            [product_id] => 57
+            [name] => 50入掛耳包超值箱 (M)
+            [model] => A251
+            [shipping] => 1
+            [image] => 
+            [option] => Array
+                (
+                )
+
+            [download] => Array
+                (
+                )
+
+            [quantity] => 1
+            [subtract_quantity] => 0
+            [minimum] => 1
+            [subtract] => 1
+            [subtract_weight] => 0
+            [stock] => 1
+            [price] => 1000
+            [total] => 1000
+            [reward] => 0
+            [points] => 0
+            [tax_class_id] => 0
+            [weight] => 0
+            [converted_raw_bean_weight] => 0
+            [weight_class_id] => 1
+            [length] => 0.00000000
+            [width] => 0.00000000
+            [height] => 0.00000000
+            [length_class_id] => 1
+            [profile_id] => 0
+            [profile_name] => 
+            [recurring] => 
+            [recurring_frequency] => 0
+            [recurring_price] => 0
+            [recurring_cycle] => 0
+            [recurring_duration] => 0
+            [recurring_trial] => 0
+            [recurring_trial_frequency] => 0
+            [recurring_trial_price] => 0
+            [recurring_trial_cycle] => 0
+            [recurring_trial_duration] => 0
+        )
+
+)
+
+2014-12-03 23:11:32 - Array
+(
+    [code] => flat
+    [title] => 固定運費
+    [quote] => Array
+        (
+            [flat] => Array
+                (
+                    [code] => flat.flat
+                    [title] => 固定運費率
+                    [cost] => 25
+                    [tax_class_id] => 9
+                    [text] => $50.00
+                )
+
+        )
+
+    [sort_order] => 2
+    [error] => 
+)
+
+2014-12-03 23:44:14 - Array
+(
+    [57::] => Array
+        (
+            [key] => 57::
+            [product_id] => 57
+            [name] => 50入掛耳包超值箱 (M)
+            [model] => A251
+            [shipping] => 1
+            [image] => 
+            [option] => Array
+                (
+                )
+
+            [download] => Array
+                (
+                )
+
+            [quantity] => 1
+            [subtract_quantity] => 0
+            [minimum] => 1
+            [subtract] => 1
+            [subtract_weight] => 0
+            [stock] => 1
+            [price] => 1000
+            [total] => 1000
+            [reward] => 0
+            [points] => 0
+            [tax_class_id] => 0
+            [weight] => 0
+            [converted_raw_bean_weight] => 0
+            [weight_class_id] => 1
+            [length] => 0.00000000
+            [width] => 0.00000000
+            [height] => 0.00000000
+            [length_class_id] => 1
+            [profile_id] => 0
+            [profile_name] => 
+            [recurring] => 
+            [recurring_frequency] => 0
+            [recurring_price] => 0
+            [recurring_cycle] => 0
+            [recurring_duration] => 0
+            [recurring_trial] => 0
+            [recurring_trial_frequency] => 0
+            [recurring_trial_price] => 0
+            [recurring_trial_cycle] => 0
+            [recurring_trial_duration] => 0
+        )
+
+)
+
+2014-12-03 23:44:14 - Array
+(
+    [code] => flat
+    [title] => 固定運費
+    [quote] => Array
+        (
+            [flat] => Array
+                (
+                    [code] => flat.flat
+                    [title] => 固定運費率
+                    [cost] => 25
+                    [tax_class_id] => 9
+                    [text] => $50.00
+                )
+
+        )
+
+    [sort_order] => 2
+    [error] => 
+)
+
+2014-12-03 23:44:49 - Array
+(
+    [57::] => Array
+        (
+            [key] => 57::
+            [product_id] => 57
+            [name] => 50入掛耳包超值箱 (M)
+            [model] => A251
+            [shipping] => 1
+            [image] => 
+            [option] => Array
+                (
+                )
+
+            [download] => Array
+                (
+                )
+
+            [quantity] => 1
+            [subtract_quantity] => 0
+            [minimum] => 1
+            [subtract] => 1
+            [subtract_weight] => 0
+            [stock] => 1
+            [price] => 1000
+            [total] => 1000
+            [reward] => 0
+            [points] => 0
+            [tax_class_id] => 0
+            [weight] => 0
+            [converted_raw_bean_weight] => 0
+            [weight_class_id] => 1
+            [length] => 0.00000000
+            [width] => 0.00000000
+            [height] => 0.00000000
+            [length_class_id] => 1
+            [profile_id] => 0
+            [profile_name] => 
+            [recurring] => 
+            [recurring_frequency] => 0
+            [recurring_price] => 0
+            [recurring_cycle] => 0
+            [recurring_duration] => 0
+            [recurring_trial] => 0
+            [recurring_trial_frequency] => 0
+            [recurring_trial_price] => 0
+            [recurring_trial_cycle] => 0
+            [recurring_trial_duration] => 0
+        )
+
+    [55:YToyOntpOjIzNztzOjI6IjQ4IjtpOjIzNTtzOjI6IjQwIjt9:] => Array
+        (
+            [key] => 55:YToyOntpOjIzNztzOjI6IjQ4IjtpOjIzNTtzOjI6IjQwIjt9:
+            [product_id] => 55
+            [name] => 迪寶日曬耶加雪夫 (自挑烘培度)
+            [model] => Y451
+            [shipping] => 1
+            [image] => 
+            [option] => Array
+                (
+                    [0] => Array
+                        (
+                            [product_option_id] => 237
+                            [product_option_value_id] => 48
+                            [option_id] => 18
+                            [option_value_id] => 69
+                            [name] => 產品選項
+                            [option_value] => 掛耳包20入禮盒
+                            [type] => radio
+                            [quantity] => 0
+                            [subtract] => 0
+                            [price] => 530.0000
+                            [price_prefix] => +
+                            [points] => 0
+                            [points_prefix] => +
+                            [weight] => 200.00000000
+                            [weight_prefix] => +
+                            [subtract_rate] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [product_option_id] => 235
+                            [product_option_value_id] => 40
+                            [option_id] => 17
+                            [option_value_id] => 63
+                            [name] => 烘培度
+                            [option_value] => M0+
+                            [type] => select
+                            [quantity] => 0
+                            [subtract] => 0
+                            [price] => 0.0000
+                            [price_prefix] => +
+                            [points] => 0
+                            [points_prefix] => +
+                            [weight] => 0.00000000
+                            [weight_prefix] => +
+                            [subtract_rate] => 110
+                        )
+
+                )
+
+            [download] => Array
+                (
+                )
+
+            [quantity] => 1
+            [subtract_quantity] => 0
+            [minimum] => 1
+            [subtract] => 0
+            [subtract_weight] => 1
+            [stock] => 1
+            [price] => 980
+            [total] => 980
+            [reward] => 0
+            [points] => 0
+            [tax_class_id] => 0
+            [weight] => 200
+            [converted_raw_bean_weight] => 220
+            [weight_class_id] => 2
+            [length] => 0.00000000
+            [width] => 0.00000000
+            [height] => 0.00000000
+            [length_class_id] => 1
+            [profile_id] => 0
+            [profile_name] => 
+            [recurring] => 
+            [recurring_frequency] => 0
+            [recurring_price] => 0
+            [recurring_cycle] => 0
+            [recurring_duration] => 0
+            [recurring_trial] => 0
+            [recurring_trial_frequency] => 0
+            [recurring_trial_price] => 0
+            [recurring_trial_cycle] => 0
+            [recurring_trial_duration] => 0
+        )
+
+)
+
+2014-12-03 23:44:49 - Array
+(
+    [code] => flat
+    [title] => 固定運費
+    [quote] => Array
+        (
+            [flat] => Array
+                (
+                    [code] => flat.flat
+                    [title] => 固定運費率
+                    [cost] => 100
+                    [tax_class_id] => 9
+                    [text] => $100.00
+                )
+
+        )
+
+    [sort_order] => 2
+    [error] => 
+)
+
+2014-12-03 23:45:54 - Array
+(
+    [57::] => Array
+        (
+            [key] => 57::
+            [product_id] => 57
+            [name] => 50入掛耳包超值箱 (M)
+            [model] => A251
+            [shipping] => 1
+            [image] => 
+            [option] => Array
+                (
+                )
+
+            [download] => Array
+                (
+                )
+
+            [quantity] => 1
+            [subtract_quantity] => 0
+            [minimum] => 1
+            [subtract] => 1
+            [subtract_weight] => 0
+            [stock] => 1
+            [price] => 1000
+            [total] => 1000
+            [reward] => 0
+            [points] => 0
+            [tax_class_id] => 0
+            [weight] => 0
+            [converted_raw_bean_weight] => 0
+            [weight_class_id] => 1
+            [length] => 0.00000000
+            [width] => 0.00000000
+            [height] => 0.00000000
+            [length_class_id] => 1
+            [profile_id] => 0
+            [profile_name] => 
+            [recurring] => 
+            [recurring_frequency] => 0
+            [recurring_price] => 0
+            [recurring_cycle] => 0
+            [recurring_duration] => 0
+            [recurring_trial] => 0
+            [recurring_trial_frequency] => 0
+            [recurring_trial_price] => 0
+            [recurring_trial_cycle] => 0
+            [recurring_trial_duration] => 0
+        )
+
+    [55:YToyOntpOjIzNztzOjI6IjQ4IjtpOjIzNTtzOjI6IjQwIjt9:] => Array
+        (
+            [key] => 55:YToyOntpOjIzNztzOjI6IjQ4IjtpOjIzNTtzOjI6IjQwIjt9:
+            [product_id] => 55
+            [name] => 迪寶日曬耶加雪夫 (自挑烘培度)
+            [model] => Y451
+            [shipping] => 1
+            [image] => 
+            [option] => Array
+                (
+                    [0] => Array
+                        (
+                            [product_option_id] => 237
+                            [product_option_value_id] => 48
+                            [option_id] => 18
+                            [option_value_id] => 69
+                            [name] => 產品選項
+                            [option_value] => 掛耳包20入禮盒
+                            [type] => radio
+                            [quantity] => 0
+                            [subtract] => 0
+                            [price] => 530.0000
+                            [price_prefix] => +
+                            [points] => 0
+                            [points_prefix] => +
+                            [weight] => 200.00000000
+                            [weight_prefix] => +
+                            [subtract_rate] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [product_option_id] => 235
+                            [product_option_value_id] => 40
+                            [option_id] => 17
+                            [option_value_id] => 63
+                            [name] => 烘培度
+                            [option_value] => M0+
+                            [type] => select
+                            [quantity] => 0
+                            [subtract] => 0
+                            [price] => 0.0000
+                            [price_prefix] => +
+                            [points] => 0
+                            [points_prefix] => +
+                            [weight] => 0.00000000
+                            [weight_prefix] => +
+                            [subtract_rate] => 110
+                        )
+
+                )
+
+            [download] => Array
+                (
+                )
+
+            [quantity] => 1
+            [subtract_quantity] => 0
+            [minimum] => 1
+            [subtract] => 0
+            [subtract_weight] => 1
+            [stock] => 1
+            [price] => 980
+            [total] => 980
+            [reward] => 0
+            [points] => 0
+            [tax_class_id] => 0
+            [weight] => 200
+            [converted_raw_bean_weight] => 220
+            [weight_class_id] => 2
+            [length] => 0.00000000
+            [width] => 0.00000000
+            [height] => 0.00000000
+            [length_class_id] => 1
+            [profile_id] => 0
+            [profile_name] => 
+            [recurring] => 
+            [recurring_frequency] => 0
+            [recurring_price] => 0
+            [recurring_cycle] => 0
+            [recurring_duration] => 0
+            [recurring_trial] => 0
+            [recurring_trial_frequency] => 0
+            [recurring_trial_price] => 0
+            [recurring_trial_cycle] => 0
+            [recurring_trial_duration] => 0
+        )
+
+)
+
+2014-12-03 23:45:54 - Array
+(
+    [code] => flat
+    [title] => 固定運費
+    [quote] => Array
+        (
+            [flat] => Array
+                (
+                    [code] => flat.flat
+                    [title] => 固定運費率
+                    [cost] => 100
+                    [tax_class_id] => 9
+                    [text] => $100.00
+                )
+
+        )
+
+    [sort_order] => 2
+    [error] => 
+)
+
+2014-12-03 23:46:17 - Array
+(
+    [57::] => Array
+        (
+            [key] => 57::
+            [product_id] => 57
+            [name] => 50入掛耳包超值箱 (M)
+            [model] => A251
+            [shipping] => 1
+            [image] => 
+            [option] => Array
+                (
+                )
+
+            [download] => Array
+                (
+                )
+
+            [quantity] => 1
+            [subtract_quantity] => 0
+            [minimum] => 1
+            [subtract] => 1
+            [subtract_weight] => 0
+            [stock] => 1
+            [price] => 1000
+            [total] => 1000
+            [reward] => 0
+            [points] => 0
+            [tax_class_id] => 0
+            [weight] => 0
+            [converted_raw_bean_weight] => 0
+            [weight_class_id] => 1
+            [length] => 0.00000000
+            [width] => 0.00000000
+            [height] => 0.00000000
+            [length_class_id] => 1
+            [profile_id] => 0
+            [profile_name] => 
+            [recurring] => 
+            [recurring_frequency] => 0
+            [recurring_price] => 0
+            [recurring_cycle] => 0
+            [recurring_duration] => 0
+            [recurring_trial] => 0
+            [recurring_trial_frequency] => 0
+            [recurring_trial_price] => 0
+            [recurring_trial_cycle] => 0
+            [recurring_trial_duration] => 0
+        )
+
+    [55:YToyOntpOjIzNztzOjI6IjQ4IjtpOjIzNTtzOjI6IjQwIjt9:] => Array
+        (
+            [key] => 55:YToyOntpOjIzNztzOjI6IjQ4IjtpOjIzNTtzOjI6IjQwIjt9:
+            [product_id] => 55
+            [name] => 迪寶日曬耶加雪夫 (自挑烘培度)
+            [model] => Y451
+            [shipping] => 1
+            [image] => 
+            [option] => Array
+                (
+                    [0] => Array
+                        (
+                            [product_option_id] => 237
+                            [product_option_value_id] => 48
+                            [option_id] => 18
+                            [option_value_id] => 69
+                            [name] => 產品選項
+                            [option_value] => 掛耳包20入禮盒
+                            [type] => radio
+                            [quantity] => 0
+                            [subtract] => 0
+                            [price] => 530.0000
+                            [price_prefix] => +
+                            [points] => 0
+                            [points_prefix] => +
+                            [weight] => 200.00000000
+                            [weight_prefix] => +
+                            [subtract_rate] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [product_option_id] => 235
+                            [product_option_value_id] => 40
+                            [option_id] => 17
+                            [option_value_id] => 63
+                            [name] => 烘培度
+                            [option_value] => M0+
+                            [type] => select
+                            [quantity] => 0
+                            [subtract] => 0
+                            [price] => 0.0000
+                            [price_prefix] => +
+                            [points] => 0
+                            [points_prefix] => +
+                            [weight] => 0.00000000
+                            [weight_prefix] => +
+                            [subtract_rate] => 110
+                        )
+
+                )
+
+            [download] => Array
+                (
+                )
+
+            [quantity] => 1
+            [subtract_quantity] => 0
+            [minimum] => 1
+            [subtract] => 0
+            [subtract_weight] => 1
+            [stock] => 1
+            [price] => 980
+            [total] => 980
+            [reward] => 0
+            [points] => 0
+            [tax_class_id] => 0
+            [weight] => 200
+            [converted_raw_bean_weight] => 220
+            [weight_class_id] => 2
+            [length] => 0.00000000
+            [width] => 0.00000000
+            [height] => 0.00000000
+            [length_class_id] => 1
+            [profile_id] => 0
+            [profile_name] => 
+            [recurring] => 
+            [recurring_frequency] => 0
+            [recurring_price] => 0
+            [recurring_cycle] => 0
+            [recurring_duration] => 0
+            [recurring_trial] => 0
+            [recurring_trial_frequency] => 0
+            [recurring_trial_price] => 0
+            [recurring_trial_cycle] => 0
+            [recurring_trial_duration] => 0
+        )
+
+)
+
+2014-12-03 23:46:17 - Array
+(
+    [code] => flat
+    [title] => 固定運費
+    [quote] => Array
+        (
+            [flat] => Array
+                (
+                    [code] => flat.flat
+                    [title] => 固定運費率
+                    [cost] => 100
+                    [tax_class_id] => 9
+                    [text] => $100.00
+                )
+
+        )
+
+    [sort_order] => 2
+    [error] => 
+)
+
+2014-12-18 5:00:50 - Array
+(
+    [54::] => Array
+        (
+            [key] => 54::
+            [product_id] => 54
+            [name] => 迪寶日曬耶加雪夫 M0+
+            [model] => Y452
+            [shipping] => 1
+            [image] => 
+            [option] => Array
+                (
+                )
+
+            [download] => Array
+                (
+                )
+
+            [quantity] => 1
+            [subtract_quantity] => 0
+            [minimum] => 1
+            [subtract] => 1
+            [subtract_weight] => 0
+            [stock] => 1
+            [price] => 450
+            [total] => 450
+            [reward] => 0
+            [points] => 0
+            [tax_class_id] => 0
+            [weight] => 0.5
+            [converted_raw_bean_weight] => 0
+            [weight_class_id] => 5
+            [length] => 0.00000000
+            [width] => 0.00000000
+            [height] => 0.00000000
+            [length_class_id] => 1
+            [profile_id] => 0
+            [profile_name] => 
+            [recurring] => 
+            [recurring_frequency] => 0
+            [recurring_price] => 0
+            [recurring_cycle] => 0
+            [recurring_duration] => 0
+            [recurring_trial] => 0
+            [recurring_trial_frequency] => 0
+            [recurring_trial_price] => 0
+            [recurring_trial_cycle] => 0
+            [recurring_trial_duration] => 0
+        )
+
+)
+
+2014-12-18 5:00:50 - Array
+(
+    [code] => flat
+    [title] => 固定運費
+    [quote] => Array
+        (
+            [flat] => Array
+                (
+                    [code] => flat.flat
+                    [title] => 固定運費率
+                    [cost] => 100
+                    [tax_class_id] => 9
+                    [text] => $100.00
+                )
+
+        )
+
+    [sort_order] => 2
+    [error] => 
+)
+
+2014-12-18 5:02:03 - Array
+(
+    [54::] => Array
+        (
+            [key] => 54::
+            [product_id] => 54
+            [name] => 迪寶日曬耶加雪夫 M0+
+            [model] => Y452
+            [shipping] => 1
+            [image] => 
+            [option] => Array
+                (
+                )
+
+            [download] => Array
+                (
+                )
+
+            [quantity] => 1
+            [subtract_quantity] => 0
+            [minimum] => 1
+            [subtract] => 1
+            [subtract_weight] => 0
+            [stock] => 1
+            [price] => 450
+            [total] => 450
+            [reward] => 0
+            [points] => 0
+            [tax_class_id] => 0
+            [weight] => 0.5
+            [converted_raw_bean_weight] => 0
+            [weight_class_id] => 5
+            [length] => 0.00000000
+            [width] => 0.00000000
+            [height] => 0.00000000
+            [length_class_id] => 1
+            [profile_id] => 0
+            [profile_name] => 
+            [recurring] => 
+            [recurring_frequency] => 0
+            [recurring_price] => 0
+            [recurring_cycle] => 0
+            [recurring_duration] => 0
+            [recurring_trial] => 0
+            [recurring_trial_frequency] => 0
+            [recurring_trial_price] => 0
+            [recurring_trial_cycle] => 0
+            [recurring_trial_duration] => 0
+        )
+
+    [56:YToxOntpOjIzODtzOjI6IjUwIjt9:] => Array
+        (
+            [key] => 56:YToxOntpOjIzODtzOjI6IjUwIjt9:
+            [product_id] => 56
+            [name] => 迪寶日曬耶加雪夫 M (掛耳包)
+            [model] => Y454
+            [shipping] => 1
+            [image] => 
+            [option] => Array
+                (
+                    [0] => Array
+                        (
+                            [product_option_id] => 238
+                            [product_option_value_id] => 50
+                            [option_id] => 13
+                            [option_value_id] => 50
+                            [name] => 掛耳包
+                            [option_value] => 10入裝
+                            [type] => radio
+                            [quantity] => 0
+                            [subtract] => 0
+                            [price] => 0.0000
+                            [price_prefix] => +
+                            [points] => 0
+                            [points_prefix] => +
+                            [weight] => 0.00000000
+                            [weight_prefix] => +
+                            [subtract_rate] => 0
+                        )
+
+                )
+
+            [download] => Array
+                (
+                )
+
+            [quantity] => 1
+            [subtract_quantity] => 0
+            [minimum] => 1
+            [subtract] => 1
+            [subtract_weight] => 0
+            [stock] => 1
+            [price] => 450
+            [total] => 450
+            [reward] => 0
+            [points] => 0
+            [tax_class_id] => 0
+            [weight] => 90
+            [converted_raw_bean_weight] => 0
+            [weight_class_id] => 2
+            [length] => 0.00000000
+            [width] => 0.00000000
+            [height] => 0.00000000
+            [length_class_id] => 1
+            [profile_id] => 0
+            [profile_name] => 
+            [recurring] => 
+            [recurring_frequency] => 0
+            [recurring_price] => 0
+            [recurring_cycle] => 0
+            [recurring_duration] => 0
+            [recurring_trial] => 0
+            [recurring_trial_frequency] => 0
+            [recurring_trial_price] => 0
+            [recurring_trial_cycle] => 0
+            [recurring_trial_duration] => 0
+        )
+
+    [56:YToxOntpOjIzODtzOjI6IjUxIjt9:] => Array
+        (
+            [key] => 56:YToxOntpOjIzODtzOjI6IjUxIjt9:
+            [product_id] => 56
+            [name] => 迪寶日曬耶加雪夫 M (掛耳包)
+            [model] => Y454
+            [shipping] => 1
+            [image] => 
+            [option] => Array
+                (
+                    [0] => Array
+                        (
+                            [product_option_id] => 238
+                            [product_option_value_id] => 51
+                            [option_id] => 13
+                            [option_value_id] => 51
+                            [name] => 掛耳包
+                            [option_value] => 20入禮盒
+                            [type] => radio
+                            [quantity] => 0
+                            [subtract] => 0
+                            [price] => 530.0000
+                            [price_prefix] => +
+                            [points] => 0
+                            [points_prefix] => +
+                            [weight] => 0.00000000
+                            [weight_prefix] => +
+                            [subtract_rate] => 200
+                        )
+
+                )
+
+            [download] => Array
+                (
+                )
+
+            [quantity] => 1
+            [subtract_quantity] => 2
+            [minimum] => 1
+            [subtract] => 1
+            [subtract_weight] => 0
+            [stock] => 1
+            [price] => 980
+            [total] => 980
+            [reward] => 0
+            [points] => 0
+            [tax_class_id] => 0
+            [weight] => 90
+            [converted_raw_bean_weight] => 0
+            [weight_class_id] => 2
+            [length] => 0.00000000
+            [width] => 0.00000000
+            [height] => 0.00000000
+            [length_class_id] => 1
+            [profile_id] => 0
+            [profile_name] => 
+            [recurring] => 
+            [recurring_frequency] => 0
+            [recurring_price] => 0
+            [recurring_cycle] => 0
+            [recurring_duration] => 0
+            [recurring_trial] => 0
+            [recurring_trial_frequency] => 0
+            [recurring_trial_price] => 0
+            [recurring_trial_cycle] => 0
+            [recurring_trial_duration] => 0
+        )
+
+)
+
+2014-12-18 5:02:03 - Array
+(
+    [code] => flat
+    [title] => 固定運費
+    [quote] => Array
+        (
+            [flat] => Array
+                (
+                    [code] => flat.flat
+                    [title] => 固定運費率
+                    [cost] => 100
+                    [tax_class_id] => 9
+                    [text] => $100.00
+                )
+
+        )
+
+    [sort_order] => 2
+    [error] => 
+)
+
+2014-12-18 5:08:56 - Array
+(
+    [56:YToxOntpOjIzODtzOjI6IjUxIjt9:] => Array
+        (
+            [key] => 56:YToxOntpOjIzODtzOjI6IjUxIjt9:
+            [product_id] => 56
+            [name] => 迪寶日曬耶加雪夫 M (掛耳包)
+            [model] => Y454
+            [shipping] => 1
+            [image] => 
+            [option] => Array
+                (
+                    [0] => Array
+                        (
+                            [product_option_id] => 238
+                            [product_option_value_id] => 51
+                            [option_id] => 13
+                            [option_value_id] => 51
+                            [name] => 掛耳包
+                            [option_value] => 20入禮盒
+                            [type] => radio
+                            [quantity] => 0
+                            [subtract] => 0
+                            [price] => 530.0000
+                            [price_prefix] => +
+                            [points] => 0
+                            [points_prefix] => +
+                            [weight] => 0.00000000
+                            [weight_prefix] => +
+                            [subtract_rate] => 200
+                        )
+
+                )
+
+            [download] => Array
+                (
+                )
+
+            [quantity] => 2
+            [subtract_quantity] => 4
+            [minimum] => 1
+            [subtract] => 1
+            [subtract_weight] => 0
+            [stock] => 1
+            [price] => 980
+            [total] => 1960
+            [reward] => 0
+            [points] => 0
+            [tax_class_id] => 0
+            [weight] => 180
+            [converted_raw_bean_weight] => 0
+            [weight_class_id] => 2
+            [length] => 0.00000000
+            [width] => 0.00000000
+            [height] => 0.00000000
+            [length_class_id] => 1
+            [profile_id] => 0
+            [profile_name] => 
+            [recurring] => 
+            [recurring_frequency] => 0
+            [recurring_price] => 0
+            [recurring_cycle] => 0
+            [recurring_duration] => 0
+            [recurring_trial] => 0
+            [recurring_trial_frequency] => 0
+            [recurring_trial_price] => 0
+            [recurring_trial_cycle] => 0
+            [recurring_trial_duration] => 0
+        )
+
+)
+
+2014-12-18 5:08:56 - Array
+(
+    [code] => flat
+    [title] => 固定運費
+    [quote] => Array
+        (
+            [flat] => Array
+                (
+                    [code] => flat.flat
+                    [title] => 固定運費率
+                    [cost] => 100
+                    [tax_class_id] => 9
+                    [text] => $100.00
+                )
+
+        )
+
+    [sort_order] => 2
+    [error] => 
+)
+
+2015-01-22 5:54:53 - Array
+(
+    [53::] => Array
+        (
+            [key] => 53::
+            [product_id] => 53
+            [name] => 迪寶日曬耶加雪夫 M
+            [model] => Y453
+            [shipping] => 1
+            [image] => 
+            [option] => Array
+                (
+                )
+
+            [download] => Array
+                (
+                )
+
+            [quantity] => 1
+            [subtract_quantity] => 0
+            [minimum] => 1
+            [subtract] => 1
+            [subtract_weight] => 0
+            [stock] => 1
+            [price] => 450
+            [total] => 450
+            [reward] => 0
+            [points] => 0
+            [tax_class_id] => 0
+            [weight] => 0.5
+            [converted_raw_bean_weight] => 0
+            [weight_class_id] => 5
+            [length] => 0.00000000
+            [width] => 0.00000000
+            [height] => 0.00000000
+            [length_class_id] => 1
+            [profile_id] => 0
+            [profile_name] => 
+            [recurring] => 
+            [recurring_frequency] => 0
+            [recurring_price] => 0
+            [recurring_cycle] => 0
+            [recurring_duration] => 0
+            [recurring_trial] => 0
+            [recurring_trial_frequency] => 0
+            [recurring_trial_price] => 0
+            [recurring_trial_cycle] => 0
+            [recurring_trial_duration] => 0
+        )
+
+)
+
+2015-01-22 5:54:53 - Array
+(
+    [code] => flat
+    [title] => 固定運費
+    [quote] => Array
+        (
+            [flat] => Array
+                (
+                    [code] => flat.flat
+                    [title] => 固定運費率
+                    [cost] => 100
+                    [tax_class_id] => 9
+                    [text] => $100.00
+                )
+
+        )
+
+    [sort_order] => 2
+    [error] => 
+)
+
+2015-01-22 5:55:37 - Array
+(
+    [53::] => Array
+        (
+            [key] => 53::
+            [product_id] => 53
+            [name] => 迪寶日曬耶加雪夫 M
+            [model] => Y453
+            [shipping] => 1
+            [image] => 
+            [option] => Array
+                (
+                )
+
+            [download] => Array
+                (
+                )
+
+            [quantity] => 3
+            [subtract_quantity] => 0
+            [minimum] => 1
+            [subtract] => 1
+            [subtract_weight] => 0
+            [stock] => 
+            [price] => 450
+            [total] => 1350
+            [reward] => 0
+            [points] => 0
+            [tax_class_id] => 0
+            [weight] => 1.5
+            [converted_raw_bean_weight] => 0
+            [weight_class_id] => 5
+            [length] => 0.00000000
+            [width] => 0.00000000
+            [height] => 0.00000000
+            [length_class_id] => 1
+            [profile_id] => 0
+            [profile_name] => 
+            [recurring] => 
+            [recurring_frequency] => 0
+            [recurring_price] => 0
+            [recurring_cycle] => 0
+            [recurring_duration] => 0
+            [recurring_trial] => 0
+            [recurring_trial_frequency] => 0
+            [recurring_trial_price] => 0
+            [recurring_trial_cycle] => 0
+            [recurring_trial_duration] => 0
+        )
+
+)
+
+2015-01-22 5:55:37 - Array
+(
+    [code] => flat
+    [title] => 固定運費
+    [quote] => Array
+        (
+            [flat] => Array
+                (
+                    [code] => flat.flat
+                    [title] => 固定運費率
+                    [cost] => 100
+                    [tax_class_id] => 9
+                    [text] => $100.00
+                )
+
+        )
+
+    [sort_order] => 2
+    [error] => 
+)
+
+2015-01-22 5:56:15 - Array
+(
+    [57::] => Array
+        (
+            [key] => 57::
+            [product_id] => 57
+            [name] => 50入掛耳包超值箱 (M)
+            [model] => A251
+            [shipping] => 1
+            [image] => 
+            [option] => Array
+                (
+                )
+
+            [download] => Array
+                (
+                )
+
+            [quantity] => 1
+            [subtract_quantity] => 0
+            [minimum] => 1
+            [subtract] => 1
+            [subtract_weight] => 0
+            [stock] => 1
+            [price] => 1000
+            [total] => 1000
+            [reward] => 0
+            [points] => 0
+            [tax_class_id] => 0
+            [weight] => 0
+            [converted_raw_bean_weight] => 0
+            [weight_class_id] => 1
+            [length] => 0.00000000
+            [width] => 0.00000000
+            [height] => 0.00000000
+            [length_class_id] => 1
+            [profile_id] => 0
+            [profile_name] => 
+            [recurring] => 
+            [recurring_frequency] => 0
+            [recurring_price] => 0
+            [recurring_cycle] => 0
+            [recurring_duration] => 0
+            [recurring_trial] => 0
+            [recurring_trial_frequency] => 0
+            [recurring_trial_price] => 0
+            [recurring_trial_cycle] => 0
+            [recurring_trial_duration] => 0
+        )
+
+)
+
+2015-01-22 5:56:15 - Array
+(
+    [code] => flat
+    [title] => 固定運費
+    [quote] => Array
+        (
+            [flat] => Array
+                (
+                    [code] => flat.flat
+                    [title] => 固定運費率
+                    [cost] => 25
+                    [tax_class_id] => 9
+                    [text] => $50.00
+                )
+
+        )
+
+    [sort_order] => 2
+    [error] => 
+)
+
+2015-01-22 6:11:26 - PHP Notice:  Error: Could not load template /var/opencart/opencart-1.5.6.4/upload/catalog/view/theme/default/template/module/magnorcms.tpl! in /var/opencart/opencart-1.5.6.4/upload/vqmod/vqcache/vq2-system_engine_controller.php on line 90
+2015-01-22 6:11:48 - PHP Notice:  Error: Could not load template /var/opencart/opencart-1.5.6.4/upload/catalog/view/theme/default/template/module/magnorcms.tpl! in /var/opencart/opencart-1.5.6.4/upload/vqmod/vqcache/vq2-system_engine_controller.php on line 90
+2015-01-22 6:11:50 - PHP Notice:  Error: Could not load template /var/opencart/opencart-1.5.6.4/upload/catalog/view/theme/default/template/module/magnorcms.tpl! in /var/opencart/opencart-1.5.6.4/upload/vqmod/vqcache/vq2-system_engine_controller.php on line 90
+2015-01-22 6:11:51 - PHP Notice:  Error: Could not load template /var/opencart/opencart-1.5.6.4/upload/catalog/view/theme/default/template/module/magnorcms.tpl! in /var/opencart/opencart-1.5.6.4/upload/vqmod/vqcache/vq2-system_engine_controller.php on line 90
+2015-01-22 6:11:52 - PHP Notice:  Error: Could not load template /var/opencart/opencart-1.5.6.4/upload/catalog/view/theme/default/template/module/magnorcms.tpl! in /var/opencart/opencart-1.5.6.4/upload/vqmod/vqcache/vq2-system_engine_controller.php on line 90
+2015-01-22 7:05:34 - PHP Notice:  Undefined variable: http_type in /var/opencart/opencart-1.5.6.4/upload/catalog/view/theme/OPC060144/template/product/product.tpl on line 3
+2015-01-22 7:41:21 - PHP Notice:  Undefined variable: http_type in /var/opencart/opencart-1.5.6.4/upload/catalog/view/theme/OPC060144/template/product/product.tpl on line 3
+2015-01-22 7:45:11 - Array
+(
+    [57::] => Array
+        (
+            [key] => 57::
+            [product_id] => 57
+            [name] => 50入掛耳包超值箱 (M)
+            [model] => A251
+            [shipping] => 1
+            [image] => 
+            [option] => Array
+                (
+                )
+
+            [download] => Array
+                (
+                )
+
+            [quantity] => 1
+            [subtract_quantity] => 0
+            [minimum] => 1
+            [subtract] => 1
+            [subtract_weight] => 0
+            [stock] => 1
+            [price] => 1000
+            [total] => 1000
+            [reward] => 0
+            [points] => 0
+            [tax_class_id] => 0
+            [weight] => 0
+            [converted_raw_bean_weight] => 0
+            [weight_class_id] => 1
+            [length] => 0.00000000
+            [width] => 0.00000000
+            [height] => 0.00000000
+            [length_class_id] => 1
+            [profile_id] => 0
+            [profile_name] => 
+            [recurring] => 
+            [recurring_frequency] => 0
+            [recurring_price] => 0
+            [recurring_cycle] => 0
+            [recurring_duration] => 0
+            [recurring_trial] => 0
+            [recurring_trial_frequency] => 0
+            [recurring_trial_price] => 0
+            [recurring_trial_cycle] => 0
+            [recurring_trial_duration] => 0
+        )
+
+)
+
+2015-01-22 7:45:11 - Array
+(
+    [code] => flat
+    [title] => 固定運費
+    [quote] => Array
+        (
+            [flat] => Array
+                (
+                    [code] => flat.flat
+                    [title] => 固定運費率
+                    [cost] => 25
+                    [tax_class_id] => 9
+                    [text] => $50.00
+                )
+
+        )
+
+    [sort_order] => 2
+    [error] => 
+)
+
+2015-01-22 7:45:29 - Array
+(
+    [57::] => Array
+        (
+            [key] => 57::
+            [product_id] => 57
+            [name] => 50入掛耳包超值箱 (M)
+            [model] => A251
+            [shipping] => 1
+            [image] => 
+            [option] => Array
+                (
+                )
+
+            [download] => Array
+                (
+                )
+
+            [quantity] => 1
+            [subtract_quantity] => 0
+            [minimum] => 1
+            [subtract] => 1
+            [subtract_weight] => 0
+            [stock] => 1
+            [price] => 1000
+            [total] => 1000
+            [reward] => 0
+            [points] => 0
+            [tax_class_id] => 0
+            [weight] => 0
+            [converted_raw_bean_weight] => 0
+            [weight_class_id] => 1
+            [length] => 0.00000000
+            [width] => 0.00000000
+            [height] => 0.00000000
+            [length_class_id] => 1
+            [profile_id] => 0
+            [profile_name] => 
+            [recurring] => 
+            [recurring_frequency] => 0
+            [recurring_price] => 0
+            [recurring_cycle] => 0
+            [recurring_duration] => 0
+            [recurring_trial] => 0
+            [recurring_trial_frequency] => 0
+            [recurring_trial_price] => 0
+            [recurring_trial_cycle] => 0
+            [recurring_trial_duration] => 0
+        )
+
+)
+
+2015-01-22 7:45:29 - Array
+(
+    [code] => flat
+    [title] => 固定運費
+    [quote] => Array
+        (
+            [flat] => Array
+                (
+                    [code] => flat.flat
+                    [title] => 固定運費率
+                    [cost] => 25
+                    [tax_class_id] => 9
+                    [text] => $50.00
+                )
+
+        )
+
+    [sort_order] => 2
+    [error] => 
+)
+
+2015-01-22 8:04:34 - PHP Notice:  Undefined variable: http_type in /var/opencart/opencart-1.5.6.4/upload/catalog/view/theme/OPC060144/template/product/product.tpl on line 3
+2015-01-22 9:19:24 - PHP Notice:  Undefined variable: http_type in /var/opencart/opencart-1.5.6.4/upload/catalog/view/theme/OPC060144/template/product/product.tpl on line 3
+2015-01-22 16:38:19 - PHP Notice:  Undefined variable: http_type in /var/opencart/opencart-1.5.6.4/upload/catalog/view/theme/OPC060144/template/product/product.tpl on line 3
+2015-02-04 13:19:56 - PHP Notice:  Undefined index: route in /var/opencart/opencart-1.5.6.4/upload/catalog/controller/common/header.php on line 9
+2015-02-04 13:19:56 - PHP Notice:  Undefined index: route in /var/opencart/opencart-1.5.6.4/upload/catalog/controller/common/header.php on line 13
+2015-02-09 18:28:37 - PHP Notice:  Undefined index: route in /var/opencart/opencart-1.5.6.4/upload/catalog/controller/common/header.php on line 9
+2015-02-09 18:28:37 - PHP Notice:  Undefined index: route in /var/opencart/opencart-1.5.6.4/upload/catalog/controller/common/header.php on line 13
+2015-02-14 23:19:20 - PHP Notice:  Undefined index: route in /var/opencart/opencart-1.5.6.4/upload/catalog/controller/common/header.php on line 9
+2015-02-14 23:19:20 - PHP Notice:  Undefined index: route in /var/opencart/opencart-1.5.6.4/upload/catalog/controller/common/header.php on line 13
+2015-04-01 17:15:55 - PHP Notice:  Undefined index: route in /var/opencart/opencart-1.5.6.4/upload/catalog/controller/common/header.php on line 9
+2015-04-01 17:15:55 - PHP Notice:  Undefined index: route in /var/opencart/opencart-1.5.6.4/upload/catalog/controller/common/header.php on line 13
+2015-07-12 20:18:25 - PHP Notice:  Undefined index: route in /var/opencart/opencart-1.5.6.4/upload/catalog/controller/common/header.php on line 9
+2015-07-12 20:18:25 - PHP Notice:  Undefined index: route in /var/opencart/opencart-1.5.6.4/upload/catalog/controller/common/header.php on line 13
+2015-07-26 4:17:44 - PHP Notice:  Undefined index: route in /var/opencart/opencart-1.5.6.4/upload/catalog/controller/common/header.php on line 9
+2015-07-26 4:17:44 - PHP Notice:  Undefined index: route in /var/opencart/opencart-1.5.6.4/upload/catalog/controller/common/header.php on line 13
+2015-10-31 3:39:27 - PHP Notice:  Undefined index: route in /var/opencart/opencart-1.5.6.4/upload/catalog/controller/common/header.php on line 9
+2015-10-31 3:39:27 - PHP Notice:  Undefined index: route in /var/opencart/opencart-1.5.6.4/upload/catalog/controller/common/header.php on line 13
+2015-11-13 11:18:58 - PHP Notice:  Undefined index: route in /var/opencart/opencart-1.5.6.4/upload/catalog/controller/common/header.php on line 9
+2015-11-13 11:18:58 - PHP Notice:  Undefined index: route in /var/opencart/opencart-1.5.6.4/upload/catalog/controller/common/header.php on line 13
+2016-01-15 6:55:17 - PHP Notice:  Undefined variable: http_type in /var/opencart/opencart-1.5.6.4/upload/catalog/view/theme/OPC060144/template/product/product.tpl on line 3
